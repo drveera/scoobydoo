@@ -20,7 +20,7 @@ def test_reverse_words():
 #    """
 #    # uncomment next line in step 9
     return [len(word) for word in s.split()]
-    return None
+    #return None
 
 
 # uncomment this function in step 6
